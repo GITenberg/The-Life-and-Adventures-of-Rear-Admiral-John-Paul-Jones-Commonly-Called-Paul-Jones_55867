@@ -1,0 +1,28 @@
+_repo: The-Life-and-Adventures-of-Rear-Admiral-John-Paul-Jones-Commonly-Called-Paul-Jones_55867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2017-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life and Adventures of Rear-Admiral John Paul Jones
+
+  Commonly Called Paul Jones'
+url: http://www.gutenberg.org/ebooks/55867
